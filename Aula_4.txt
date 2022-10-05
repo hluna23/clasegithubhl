@@ -1,0 +1,312 @@
+    1  ld
+    2  cdm
+    3  ls
+    4  ls-a
+    5  ls -a
+    6  pwd
+    7  cd
+    8  cd..
+    9  dc..
+   10  cd..
+   11  cd~
+   12  cd/hl
+   13  claer
+   14  clear
+   15  ls
+   16  ls -a
+   17  ls ..
+   18  pwd
+   19  cd
+   20  ls
+   21  cd Desktop/
+   22  cd ..
+   23  cd ~
+   24  cd desktop
+   25  mkdir comandos
+   26  ls
+   27  mkdir pasta nova
+   28  ls
+   29  mkdir "pasta nova"
+   30  ls
+   31  mkdir -p new/old
+   32  ld
+   33  ls
+   34  ls
+   35  ls
+   36  ls new
+   37  nr -r nova pasta
+   38  ls
+   39  rm -r pasta nova
+   40  ls
+   41  rm -r pasta nova new
+   42  ls
+   43  rm -r "pasta nova"
+   44  ls
+   45  clear
+   46  git config --global user.name Henry Luna
+   47  git config --global user.email lunaretornado2@gmail.com
+   48  git config user.name
+   49  cd disco local e hl
+   50  cd DISCO LOCAL (E)
+   51  cd DISCO LOCAL E
+   52  cd disco local
+   53  cd hl
+   54  cd hl/
+   55  cd disco local E/
+   56  cd kinston/
+   57  ls
+   58  cd pc comando
+   59  cd comando
+   60  ls
+   61  ls
+   62  cd desktop
+   63  cd comando
+   64  ls
+   65  clear
+   66  git confi ==global user.name "Henry Luna"
+   67  git confi ==global user.email "lunaretornado2@gmail.com
+   68  clear
+   69  git config user.name Henry Luna
+   70  git confi ==global user.name "Henry Luna"
+   71  git config user. name
+   72  cd
+   73  cd desktop
+   74  cd desktop comando
+   75  clear
+   76  cd desktop/ comando
+   77  cd desktop/ comandos
+   78  git config ==global user.name Henry Luna
+   79  git ==global user.mail lunaretornado2@gmail.com
+   80  git confi ==global user.mail lunaretornado2@gmail.com
+   81  git config ==global user.mail lunaretornado2@gmail.com
+   82  git config ==global user.mail "lunaretornado2@gmail.com"
+   83  git config ==global user.email lunaretornado2@gmail.com
+   84  git config ==global user.email "lunaretornado2@gmail.com
+   85  1
+   86  "
+   87  git config ==global user.email "lunaretornado2@ggmail.com"
+   88  git config user.name
+   89  cd desktop
+   90  mkdir curso_git
+   91  git config user.name
+   92  git init
+   93  git status
+   94  echo "#aprendendo usar o git > readme.md
+   95  2
+   96  .
+   97  echo "#aprendendo usar o git" > readme.md
+   98  @
+   99  "
+  100  echo "#Aprendendo usar o git" > readme.md
+  101  git add readme.md
+  102  git commit -m "commit inicial"
+  103  git status
+  104  ls
+  105  git init curso toti
+  106  ls
+  107  ms
+  108  cd
+  109  git config user.name
+  110  cd desktop/
+  111  cd hl
+  112  cd disco local e
+  113  cd DISCO LOCAL (E)
+  114  cd/disco local (e)
+  115  cd/ disco local
+  116  cd/kinston
+  117  ls
+  118  cd/curso_git
+  119  cd curso
+  120  cd desktop
+  121  ls
+  122  cd desktop
+  123  ls
+  124  cd comandos/
+  125  mkdir git
+  126  gift config user.name
+  127  git config user.name
+  128  cd desktop
+  129  cd desktop/
+  130  cd desktop/
+  131  ls
+  132  ls
+  133  git config --global user.name "Henry Bernabe"
+  134  git config --global user.email lunaretornado2@gmail.com
+  135  git config --list
+  136  git config user.name
+  137  ls
+  138  cd/git
+  139  ls git
+  140  git init
+  141  echo "#aprendendo usar o git"> readme.md
+  142  git status
+  143  git add readme.md
+  144  git status
+  145  git commit -m "Commit inicial"
+  146  git status
+  147  echo "##aula 1" >> readme.md
+  148  git status
+  149  echo "henry luna" > participante.txt
+  150  git status
+  151   git add.
+  152  git status
+  153  git add .
+  154  git status
+  155  git restore --staged participante.txt
+  156  git status
+  157  git add participante.txt
+  158  git status
+  159  git restore --staged
+  160  git status
+  161  git restore --staged .
+  162  git status
+  163  git commit -am "alteração no readme"
+  164  git status
+  165  git add participante.txt
+  166  git status
+  167  git commit -m adicionado participante.txt
+  168  history > Aula_3.txt
+  169  git status
+  170  git add . 
+  171  git commit -m "comandos da Aula 3"
+  172  clear
+  173  git log
+  174  git repository
+  175  git clone
+  176  git log
+  177  clear
+  178  git log Aula 3
+  179  clear
+  180  git log
+  181  git status
+  182  clear
+  183  git confi user.name
+  184  git config user.name
+  185  git log
+  186  ls
+  187  cd
+  188  cd dstktop
+  189  cd destktop
+  190  clear
+  191  git add .
+  192  git config user.name
+  193  ls
+  194  git add
+  195  git add.
+  196  git add .
+  197  git status
+  198  git log
+  199  ld
+  200  ls
+  201  #aprendendo usar o git
+  202  ##aula 1
+  203  git status
+  204  #aprendendo usar o git
+  205  ##aula 1
+  206  #aprendendo usar o git
+  207  ##aula 1
+  208  #aprendendo usar o git
+  209  ##aula 1
+  210  git config user.name
+  211  cd
+  212  cd desktop
+  213  cd comandos
+  214  git log
+  215  git clone https://github.com/eng-flores/exercicio-git.git
+  216  git commit add °henry luna°
+  217  git add °henry luna°
+  218  git status
+  219  git add .
+  220  git add °henry luna°
+  221  CD 
+  222  GIT STATUS
+  223  GIT CONFIG USER.NAME 
+  224  CLEAR
+  225  git status
+  226  cd
+  227  cd exercio-git
+  228  cd
+  229  ls
+  230  cd
+  231  cd exercicio-git
+  232  git status
+  233  git config user.name
+  234  cd
+  235  cd desktop
+  236  cd comandos
+  237  cd exercicio-git
+  238  git add .
+  239  cd add teste
+  240  git commit -m "henry luna"
+  241  git push origin main
+  242  git config user.name
+  243  git config user.name henry luna
+  244  git config user.name
+  245  git status
+  246  git config user.name
+  247  git config user.name
+  248  git config user.name
+  249  git config --global user.name "henry luna"
+  250  git config user.name
+  251  cd desktop
+  252  cd 
+  253  cd desktop
+  254  cd comandos
+  255  cd teste
+  256  cd exercicio-git
+  257  git status
+  258  git add .
+  259  git add teste
+  260  git commit -m  "henry luna"
+  261  git push origin main
+  262  git push origin main
+  263  git push origin main
+  264  git push origin main
+  265  git pull origin main
+  266  git status
+  267  git add .
+  268  git commit -m "henry luna"
+  269  git push origin main
+  270  git config user.name
+  271  cd
+  272  cd desktop
+  273  cd comandos
+  274  git log --pretty=online
+  275  git log --pretty=oneline
+  276  git status
+  277  git log --stat
+  278  git log -p
+  279  git log -pretty -2
+  280  git log --pretty -2
+  281  touch teste
+  282  git add teste
+  283  git status
+  284  git commit -m 'commit de teste'
+  285  git log
+  286  git reset --soft HEAD~
+  287  git log
+  288  git commit -m 'commit de teste'
+  289  git reset --hard HEAD~
+  290  git log
+  291  git status
+  292  clear
+  293  mkdir .vscode
+  294  mv conf.txt .vscode/
+  295  mv conf.txt .vscode
+  296  ls .vscode
+  297  touch conf.txt
+  298  mv conf.txt .vscode
+  299  ls .vscode
+  300  ls
+  301  ls -a
+  302  git status
+  303  echo '.vscode/'
+  304  $ echo '.vscode/' > .gitignore
+  305  git status
+  306  echo 'exercicio-git/' >> .gitignore
+  307  echo '.vscode/' >> .gitignore
+  308  git status
+  309  git add .gitignore
+  310  git commit -m 'adicionado archivo .gitinore'
+  311  git status
+  312  history > Aula_4.txt
